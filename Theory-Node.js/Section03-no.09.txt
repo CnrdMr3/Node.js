@@ -1,0 +1,4 @@
+"REPL" = 'Read-Eval-Print-Loop'
+
+REPL is a playground / sandbox.
+CLI is the way to write code for Node.
